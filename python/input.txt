@@ -1,2 +1,2 @@
-Hello,lloHe
-Basefont,tBasefon
+3 5 10
+2 7 15
