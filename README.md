@@ -1,4 +1,4 @@
 coding-problems
 ===============
 
-Solutions to coding challenges on codeeval.com and leetcode.com
+Solutions to coding challenges on https://www.codeeval.com and https://leetcode.com
