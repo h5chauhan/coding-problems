@@ -1,5 +1,6 @@
 #!/usr/local/bin/python3
-
+# This returns the length of longest substring that does not contain repeating character.
+# e.g. "abcabcbb" has "abc" with length 3.
 def substr_len(s):
 
     i,j,len = 0, 0, 0
