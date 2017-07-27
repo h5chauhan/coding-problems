@@ -13,7 +13,7 @@ def lengthOfLongestSubstring(s):
         else:
             chars.remove(s[i])
             i = i + 1
-    return maxLen
+    return maxLen, chars
 
 s = input()
 print(lengthOfLongestSubstring(s))
