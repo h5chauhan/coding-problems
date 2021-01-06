@@ -14,5 +14,5 @@ def isAnagram(s1, s2):
     return True
 
 
-print(isAnagram("heart", "earth"))
-print(isAnagram("earthdsf", "earthdsa"))
+assert(isAnagram("heart", "earth"))
+assert(isAnagram("earthdsf", "earthdsa") == False)

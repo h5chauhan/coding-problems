@@ -6,9 +6,9 @@ def main():
     line = l.rstrip().split(",")
     binary = bin(int(line[0]))
     if binary[-int(line[1])] == binary[-int(line[2])]:
-      print "true"
+      print("true")
     else:
-      print "false"
+      print("false")
 
 if __name__=="__main__":
   main()
