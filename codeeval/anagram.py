@@ -12,7 +12,3 @@ def isAnagram(s1, s2):
         if (list2[i] != a):
             return False
     return True
-
-
-assert(isAnagram("heart", "earth"))
-assert(isAnagram("earthdsf", "earthdsa") == False)
